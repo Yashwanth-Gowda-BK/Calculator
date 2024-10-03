@@ -10,6 +10,13 @@
 ![image](https://github.com/user-attachments/assets/e6150086-b1b1-4ee4-a1c0-4d8c78f8eb3a)
 
 
+
+
+https://github.com/user-attachments/assets/fa64da82-634b-4f60-a6ba-19796ceb8d1a
+
+
+
+
 ## Description
 The **Calculator App** is a simple and intuitive calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app is built with a responsive design for a clean and modern interface.
 
